@@ -40,9 +40,7 @@ I wanted to practice my SQL skills by answering some real-world questions—like
 * **The Finding:** My initial assumption was that direct flights would cost more because of a "convenience premium."
   However, the data revealed the exact opposite! Direct (zero-stop) flights are actually the cheapest overall.
 * **The Data:** Zero-stop flights averaged only **₹9,375**, while one-stop flights jumped to **₹22,900**. 
-* **The Business Logic:** Why does this happen? The secret is in the flight duration. The data shows that zero-stop flights average only **2.19 hours** (short-haul, cheaper flights),
-*                         while one-stop flights average **13.5 hours** (cross-country, expensive journeys).
-*                         The distance of the flight heavily outweighs the cost of convenience!
+* **The Business Logic:** Why does this happen? The secret is in the flight duration. The data shows that zero-stop flights average only **2.19 hours** (short-haul, cheaper flights), while one-stop flights average **13.5 hours** (cross-country, expensive journeys). The distance of the flight heavily outweighs the cost of convenience!
 
 ---
 *Note: This is a personal learning project to showcase my SQL problem-solving skills. Feel free to check out my code.*
