@@ -1,7 +1,7 @@
 # Aviation Data Analysis: Flight Prices & Routes (SQL Project)
 
 Hi! Welcome to my SQL portfolio project. 
-
+ 
 For this project, I analyzed a dataset of over 300,000 flight records from the Indian aviation industry. As someone learning Data Analytics, 
 I wanted to practice my SQL skills by answering some real-world questions—like why some flights cost so much more than others, and which routes are the busiest.
 
