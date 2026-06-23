@@ -34,12 +34,12 @@ I wanted to practice my SQL skills by answering some real-world questions—like
 
 **4. Does the time of day affect ticket prices?**
 * **The Finding:** Yes, airlines definitely use time-based pricing. Peak travel hours cost significantly more than flying at odd hours.
-* **The Data:** Flights departing in the **night** averaged **₹23062.15**, while flights leaving late at night dropped to an average of **₹9295.30**.
+* **The Data:** Flights departing in the **night** averaged **₹23,062.15/-**, while flights leaving late at night dropped to an average of **₹9,295.30/-**.
 
 **5. Are direct flights always the most expensive?**
 * **The Finding:** My initial assumption was that direct flights would cost more because of a "convenience premium."
   However, the data revealed the exact opposite! Direct (zero-stop) flights are actually the cheapest overall.
-* **The Data:** Zero-stop flights averaged only **₹9,375**, while one-stop flights jumped to **₹22,900**. 
+* **The Data:** Zero-stop flights averaged only **₹9,375/-**, while one-stop flights jumped to **₹22,900/-**. 
 * **The Business Logic:** Why does this happen? The secret is in the flight duration. The data shows that zero-stop flights average only **2.19 hours** (short-haul, cheaper flights), while one-stop flights average **13.5 hours** (cross-country, expensive journeys). The distance of the flight heavily outweighs the cost of convenience!
 
 ---
